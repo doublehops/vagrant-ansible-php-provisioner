@@ -1,0 +1,4 @@
+---
+hostname: project.dev
+docroot: /var/www
+log_file_type: nginx

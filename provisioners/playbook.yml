@@ -1,0 +1,11 @@
+---
+- hosts: all
+  user: vagrant
+  become: yes
+
+  roles:
+    - common
+    - database
+    - webserver
+    - php7
+    

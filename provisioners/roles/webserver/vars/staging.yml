@@ -1,0 +1,4 @@
+---
+hostname: plantracker-stg.api
+docroot: /var/www/public
+log_file_type: nginx

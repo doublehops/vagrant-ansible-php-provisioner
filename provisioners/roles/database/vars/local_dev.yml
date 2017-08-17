@@ -1,0 +1,6 @@
+---
+root_password: root12
+username: proj
+password: pass12
+database: proj
+test_database: proj_test

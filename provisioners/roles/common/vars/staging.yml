@@ -1,0 +1,2 @@
+---
+shell_prompt: '`EXT_COLOR 84`STAGING [\u@\h \W]\$`EXT_COLOR 255` '

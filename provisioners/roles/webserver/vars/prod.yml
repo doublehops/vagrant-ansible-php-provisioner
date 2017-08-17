@@ -1,0 +1,4 @@
+---
+hostname: api.plantracker.com.au
+docroot: /var/www/public
+log_file_type: nginx

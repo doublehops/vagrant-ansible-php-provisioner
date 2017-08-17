@@ -1,0 +1,2 @@
+[local_dev]
+project.dev ansible_ssh_user=vagrant ansible_ssh_pass=vagrant env=local_dev
